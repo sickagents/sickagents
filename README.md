@@ -19,7 +19,7 @@ Distributed systems engineer focused on **ML pipelines**, **DeFi automation**, a
 |---------|-------|-------------|
 | [portfolio](https://github.com/sickagents/portfolio) | Python | Distributed computing harness — 800 CPU cores across multiple nodes |
 | [rogii-wellbore](https://github.com/sickagents/rogii-wellbore) | Python | Wellbore geology prediction — 5 VPS parallel pipeline |
-| [asfkkaej](https://github.com/sickagents/asfkkaej) | Python | Distributed Kaggle F1 Pit Stops ML pipeline — 5 VPS Optuna tuning |
+| [kaggle-f1-pit-stops](https://github.com/sickagents/kaggle-f1-pit-stops) | Python | Distributed Kaggle F1 Pit Stops ML pipeline — 5 VPS Optuna tuning |
 | [nonce-miner](https://github.com/sickagents/nonce-miner) | C / Python | ERC-8004 Proof-of-Work miner — C keccak256 kernel + Python orchestrator (Base chain) |
 | [nonce-cpu-miner](https://github.com/sickagents/nonce-cpu-miner) | C | PoW CPU miner — optimized for Base mainnet nonce mining |
 | [dupfind](https://github.com/sickagents/dupfind) | Python | Fast duplicate file finder with hash-based detection |
