@@ -17,6 +17,7 @@ Distributed systems engineer focused on **ML pipelines**, **DeFi automation**, a
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [seadrop-multimint](https://github.com/sickagents/seadrop-multimint) | HTML/JS/ethers.js | SeaDrop MultiMint tool — auto-fetch NFT price from OpenSea contracts, multi-chain support (15+ networks) |
 | [portfolio](https://github.com/sickagents/portfolio) | Python | Distributed computing harness — 800 CPU cores across multiple nodes |
 | [rogii-wellbore](https://github.com/sickagents/rogii-wellbore) | Python | Wellbore geology prediction — 5 VPS parallel pipeline |
 | [kaggle-f1-pit-stops](https://github.com/sickagents/kaggle-f1-pit-stops) | Python | Distributed Kaggle F1 Pit Stops ML pipeline — 5 VPS Optuna tuning |
