@@ -30,10 +30,4 @@ Systems engineer from **Tokyo, Japan**. I build automation that works while I sl
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickagents&show_icons=true&theme=dark&hide_border=true)
-
----
-
 > Build fast. Ship faster. Automate everything else.
