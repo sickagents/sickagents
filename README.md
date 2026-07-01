@@ -1,34 +1,39 @@
 # Sick Agents
 
-Systems engineer from **Tokyo, Japan**. Focused on **automation**, **Web3 tooling**, and **distributed infrastructure**.
+Systems engineer from **Tokyo, Japan**. I build automation that works while I sleep.
 
 ---
 
-## What I Work On
+## What I Do
 
 - **Automation** — Bots, scrapers, multi-account orchestration, data pipelines
-- **Web3 / DeFi** — Smart contract tooling, NFT automation, mining scripts, liquidity agents
-- **Infrastructure** — Multi-VPS orchestration, parallel processing, CI/CD pipelines
-- **Developer Tools** — CLI utilities, env validators, snippet managers
-
----
-
-## Featured Projects
-
-- [seadrop-multimint](https://github.com/sickagents/seadrop-multimint) — Auto-fetch NFT price, multi-chain mint tool
-- [meridian](https://github.com/sickagents/meridian) — Autonomous Meteora DLMM liquidity agent
-- [nonce-miner](https://github.com/sickagents/nonce-miner) — ERC-8004 PoW miner (C + Python)
-- [snipvault](https://github.com/sickagents/snipvault) — Terminal-first code snippet manager
-- [ai-agent-world](https://github.com/sickagents/ai-agent-world) — Multiplayer pixel art RPG for AI agents
+- **Web3 / DeFi** — Smart contract tooling, NFT waitlist automation, mining infrastructure, liquidity agents
+- **Infrastructure** — Multi-VPS orchestration, relay servers, parallel processing, CI/CD
+- **Developer Tools** — CLI utilities, API reverse engineering, protocol automation
 
 ---
 
 ## Stack
 
-`Python` `JavaScript` `C` `Solidity` `Playwright` `Docker`
+`Python` `Node.js` `Solidity` `Bash` `Docker` `Playwright`
+`Ethereum` `Solana` `Base` `Supabase` `PostgreSQL` `Redis`
 
 ---
 
-<p align="center">
-<i>Automate everything. Sleep while it runs.</i>
-</p>
+## Featured
+
+| Repo | Description |
+|------|-------------|
+| [Kaori](https://github.com/sickagents/Kaori) | Automated LP management on Base (Uniswap V3 + Aerodrome) |
+| [NeuralForge-Core](https://github.com/sickagents/NeuralForge-Core) | Neural network training pipeline |
+| [pisang-goyeng](https://github.com/sickagents/pisang-goyeng) | Bulk account automation tool |
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickagents&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+> Build fast. Ship faster. Automate everything else.
